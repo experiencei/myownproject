@@ -1,0 +1,55 @@
+.A1 {
+    max-width: 75rem;
+    width: 85%;  
+    margin: 0 auto;
+  }
+  .A0 { background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-image: url(images/desktop/image-hero.jpg );
+      position: relative;
+      min-height: 80vh;
+      display: flex;
+      align-items: center;
+      margin-bottom: 6em;
+      display: flex;
+  
+  }
+  .A2 span {
+      display: block;
+  }
+  
+  .A2 p{
+      font-size: 1.5rem;
+      text-transform: uppercase;
+      border: 3px solid white;
+      font-family: Alata, sans-serif;
+      font-weight: 400px;
+      padding:  0.5em 1em;
+      text-transform: uppercase;
+      letter-spacing: 10px;
+      color: white;
+  }
+  #A1 {
+      font-weight: bolder;
+      font-size: 1.4em;
+      position: absolute;
+      border: none;
+      color: white;
+      justify-content: flex-start;
+      margin: 1.4em 2em 0 0;
+      align-items: flex-start;
+  }
+  .A1a{ position: relative;}
+   #A1 { left: 2em;
+    top: .5em;
+    position: absolute;
+} 
+
+.A1b{
+    position: absolute;
+    left: 7.6em;
+    top: .6em;
+    display: flex;
+    justify-content: flex-end;
+}
